@@ -1,5 +1,3 @@
-use core::num;
-
 pub fn solve(lines: &Vec<String>) {
     let mut res: u32 = 0;
     let mut numbers: Vec<Vec<bool>> = vec![];    
